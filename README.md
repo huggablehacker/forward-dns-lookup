@@ -8,4 +8,4 @@
 
 Usage of this would be:
 
-`$ ./fdns.sh 8.8.8.8`
+`$ ./fdns.sh google.com`

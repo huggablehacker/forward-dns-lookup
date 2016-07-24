@@ -4,7 +4,7 @@
 
 * Save the `fdns.sh` and the `list.txt` into the same directory.
 * Modify `fdns.sh` argument's mode with `chmod a+x`.
-* Grepping text cuts out unesisray bits, and leaves you with a clean lost.
+* Grepping text cuts out unnecessary bits, and leaves you with a clean lost.
 
 Usage of this would be:
 

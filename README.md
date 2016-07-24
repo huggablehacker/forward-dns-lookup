@@ -9,3 +9,5 @@
 Usage of this would be:
 
 `$ ./fdns.sh google.com`
+
+Output file will save to the current directory. See `output.txt` for simulated postive results.
